@@ -16,6 +16,7 @@ export default defineConfig({
   base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
 
   lang: 'zh-CN',
+  ignoreDeadLinks: true,
 
   locales: {
     root: {
@@ -95,5 +96,4 @@ export default defineConfig({
       }
     }
   },
-  ignoreDeadLinks: true,
 })
