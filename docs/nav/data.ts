@@ -54,6 +54,12 @@ export const NAV_DATA: NavData[] = [
     title: '非官方论坛',
     items: [
       {
+        icon: '/icons/nav/非官方论坛/Octave中文网.png',
+        title: 'Octave中文网Minecraft论坛',
+        desc: '知名论坛，日活10万人，可以讨论任何关于Minecraft的内容',
+        link: 'http://forum.cnoctave.top/forum.php?mod=forumdisplay&fid=70',
+      },
+      {
         //icon: 'https://media.minecraftforum.net/avatars/0/1/635356669593325566.png',
         icon: '/icons/nav/非官方论坛/Minecraft Forum.webp',
         title: 'Minecraft Forum',
@@ -106,12 +112,6 @@ export const NAV_DATA: NavData[] = [
         title: '黑曜石论坛',
         desc: '一个国内新兴的论坛，主营java版',
         link: 'https://mcobs.cn/',
-      },
-      {
-        icon: '/icons/nav/非官方论坛/Octave中文网.png',
-        title: 'Octave中文网Minecraft论坛',
-        desc: '知名论坛，日活10万人，可以讨论任何关于Minecraft的内容',
-        link: 'http://forum.cnoctave.top/forum.php?mod=forumdisplay&fid=70',
       },
     ],
   },

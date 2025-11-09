@@ -8,7 +8,6 @@ export const nav: DefaultTheme.Config['nav'] = [
     text: '团队',
     link: '/structure/',
   },
-  { text: "专栏", link: '/press/' },
   { text: "MC导航", link: '/nav/' },
   {
     text: "友情链接",

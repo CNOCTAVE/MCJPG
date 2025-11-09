@@ -3,7 +3,7 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: MCJPG
+  name: FreeMCJPG
   text: MC Server Exchange
   tagline: An organization dedicated to Minecraft technical communication and server promotion</br>Whether you're a player or a server owner, this is an excellent community for communication!
   image:
